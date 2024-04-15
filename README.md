@@ -1,6 +1,6 @@
 # Microsservico-Python
 
-# Aqui está a documentação para o microserviço que desenvolvi para gerenciar produtos. Este serviço permite listar, pesquisar, inserir, editar e excluir produtos de um banco de dados.
+# Aqui está a documentação para o microsserviço que desenvolvi para gerenciar produtos. Este serviço permite listar, pesquisar, inserir, editar e excluir produtos de um banco de dados.
 
 ** O microserviço está disponível em uma URL específica. Você pode acessá-lo utilizando um cliente HTTP ou diretamente pelo navegador. **
 
@@ -33,7 +33,7 @@ Método HTTP: PUT /editar-produto/{id_produto}
 Substitua {id_produto} pelo ID do produto que deseja editar.
 
 Autenticação
-Para proteger o acesso ao microserviço, implementei a autenticação básica. As credenciais de acesso são:
+Para proteger o acesso ao microsserviço, implementei a autenticação básica. As credenciais de acesso são:
 
 Usuário: usuario
 Senha: senha
