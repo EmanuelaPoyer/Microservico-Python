@@ -1,4 +1,4 @@
-# Microservico-Python
+# Microsservico-Python
 
 # Aqui está a documentação para o microserviço que desenvolvi para gerenciar produtos. Este serviço permite listar, pesquisar, inserir, editar e excluir produtos de um banco de dados.
 
